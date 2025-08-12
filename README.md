@@ -14,7 +14,6 @@ Built with:
 - **Vite**
 - **Material UI (MUI)** for components
 - **Axios** for API calls
-- **Tailwind CSS** (optional utility classes)
 
 ---
 
